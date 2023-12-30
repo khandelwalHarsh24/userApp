@@ -31,42 +31,42 @@ Follow these steps to set up and run the application locally:
 
 ### SignUp
 
-![SignUp] (Screenshot/signup.png)
+![SignUp](Screenshot/signup.png)
 
 ### Login
 
-![Login] (Screenshot/login.png)
+![Login](Screenshot/login.png)
 
 ### Update Details
 
-![Update] (Screenshot/update.png)
+![Update](Screenshot/update.png)
 
 ### Delete User Data
 
-![Delete] (Screenshot/delete.png)
+![Delete](Screenshot/delete.png)
 
 ### Admin Get Users
 
-![AdminGetUser] (Screenshot/admingetUser.png)
+![AdminGetUser](Screenshot/admingetUser.png)
 
 ### Admin SignUp
 
-![AdminSignUp] (Screenshot/adminsignup.png)
+![AdminSignUp](Screenshot/adminsignup.png)
 
 ### Admin Single User
 
-![AdminSingleUser] (Screenshot/singleUser.png)
+![AdminSingleUser](Screenshot/singleUser.png)
 
 ### Admin Update User Details
 
-![AdminUpdate] (Screenshot/UpdateUserAdmin.png)
+![AdminUpdate](Screenshot/UpdateUserAdmin.png)
 
 ### Admin Delete User Details
 
-![AdminDeleteUser] (Screenshot/deleteUserAdmin.png)
+![AdminDeleteUser](Screenshot/deleteUserAdmin.png)
 
 ### Errors
 
-![Error] (Screenshot/loginerror.png)
+![Error](Screenshot/loginerror.png)
 
-![Error] (Screenshot/updateerror.png)
+![Error](Screenshot/updateerror.png)
